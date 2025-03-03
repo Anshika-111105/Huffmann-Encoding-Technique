@@ -7,14 +7,14 @@ Huffman Encoding is a lossless data compression algorithm that assigns variable-
 
 
 ### Features
-- Implements Huffman Encoding algorithm in Java.
+- Implements Huffman Encoding algorithm in Java/C++.
 - Uses a priority queue (min-heap) to build the Huffman tree.
 - Generates binary codes for each character based on frequency.
 - Takes user input for characters and their respective frequencies.
 - Outputs the Huffman codes for the given input.
 
 ### Usage
-1. **Compile the Java program:**
+1. **Compile the Java/C++ program:**
    ```sh
    javac HuffmanEncoding.java
    ```
