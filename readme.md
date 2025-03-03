@@ -28,11 +28,7 @@ Huffman Encoding is a lossless data compression algorithm that assigns variable-
 ### Example
 **Input:**
 ```
-Enter number of characters: 4
-A 5
-B 9
-C 12
-D 13
+Enter string : XYZ ABC EFG
 ```
 
 **Output:**
